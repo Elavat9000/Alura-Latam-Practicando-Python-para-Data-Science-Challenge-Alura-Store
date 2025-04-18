@@ -39,6 +39,38 @@ A partir de métricas clave como ingresos totales, satisfacción del cliente, co
         ├── tienda_3.csv               # Datos de la Tienda 3
         └── tienda_4.csv               # Datos de la Tienda 4
 ```
+
+## 📈 Insights Obtenidos
+
+# Insignias Obtenidas
+
+1. **Análisis de Datos con Python**  
+   - **Descripción**: Uso de **NumPy** para el análisis de grandes volúmenes de datos y cálculos matemáticos.  
+   - **Valor**: Demuestra habilidad en la manipulación de datos y optimización de cálculos.
+
+2. **Desarrollo de Soluciones con Frameworks**  
+   - **Descripción**: Uso de un **framework** en Python para estructurar y mejorar la eficiencia del análisis.  
+   - **Valor**: Resalta la capacidad para desarrollar soluciones escalables y optimizadas.
+
+---
+
+## 🚀 Cómo Ejecutar el Notebook en Google Colab
+
+Puedes abrir y ejecutar el análisis fácilmente desde Google Colab:
+
+👉 [Abrir en Google Colab](https://colab.research.google.com/drive/1nkY3aWAPCpCCtDitE6NWU7nLn8kSE5qB#scrollTo=SzpQb7rVCLWK)
+
+### Pasos:
+
+1. Haz clic en el enlace de arriba.
+2. Inicia sesión con tu cuenta de Google (si no lo has hecho).
+3. Ejecuta las celdas del notebook (una por una o con “Ejecutar todo”).
+
+> El análisis se realiza usando archivos CSV que se cargan automáticamente desde URLs públicas, por lo que no necesitas subir ningún archivo manualmente.
+
+---
+
+
 ## 🧾 Conclusión del Estudio
 
 Con base en los datos recolectados y analizados, se recomienda **cerrar la Tienda 4**, ya que:
