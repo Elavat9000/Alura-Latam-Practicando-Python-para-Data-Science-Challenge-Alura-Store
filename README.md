@@ -21,19 +21,18 @@ A partir de métricas clave como ingresos totales, satisfacción del cliente, co
 
 ## 📂 Estructura del Proyecto
 
-``plaintext
-/ ─── Alura-Latam-Practicando-Python-para-Data-Science-Challenge-Alura-Store
-├── tienda_analysis.ipynb  # Notebook con el análisis realizado
-├── report.md              # Informe con los resultados del análisis
-|
-├── base-de-datos-challenge1-latam/
-│   ├── tienda_1.csv           # Datos de la Tienda 1
-│   ├── tienda_2.csv           # Datos de la Tienda 2
-│   ├── tienda_3.csv           # Datos de la Tienda 3
-│   ├── tienda_4.csv           # Datos de la Tienda 4
-│
-└── README.md                  # Este archivo de documentación
-
+```plaintext
+/
+└── Alura-Latam-Practicando-Python-para-Data-Science-Challenge-Alura-Store
+    ├── tienda_analysis.ipynb          # Notebook con el análisis realizado
+    ├── report.md                      # Informe con los resultados del análisis
+    ├── README.md                      # Este archivo de documentación
+    └── base-de-datos-challenge1-latam/
+        ├── tienda_1.csv               # Datos de la Tienda 1
+        ├── tienda_2.csv               # Datos de la Tienda 2
+        ├── tienda_3.csv               # Datos de la Tienda 3
+        └── tienda_4.csv               # Datos de la Tienda 4
+```
 ## 🧾 Conclusión del Estudio
 
 Con base en los datos recolectados y analizados, se recomienda **cerrar la Tienda 4**, ya que:
