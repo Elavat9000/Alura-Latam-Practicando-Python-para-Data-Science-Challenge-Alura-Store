@@ -17,7 +17,13 @@ A partir de métricas clave como ingresos totales, satisfacción del cliente, co
 - ✅ **Top 5 Productos Más y Menos Vendidos**
 - ✅ **Ventas por Categoría de Producto**
 
+### 📈 Gráficos
 
+#### Ingresos Totales por Tienda
+![Ingresos Totales por Tienda](img/ingresos_por_tienda.png)
+
+#### Ventas por Categoría y Tienda
+![Ventas por Categoría y Tienda](img/ventas_por_categoria.png)
 
 ## 📂 Estructura del Proyecto
 
